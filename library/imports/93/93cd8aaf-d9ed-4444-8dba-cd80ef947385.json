@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "switch-mask",
+    "texture": "225a0dce-125d-47f5-bd2c-7b974a192e48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      32
+    ]
+  }
+}
