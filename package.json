@@ -1,0 +1,24 @@
+{
+  "name": "szgui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnZhang2015/szgui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnZhang2015/szgui/issues"
+  },
+  "homepage": "https://github.com/ShawnZhang2015/szgui#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-shell": "^2.1.0",
+    "grunt-sync": "^0.6.2"
+  }
+}
